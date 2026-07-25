@@ -1,8 +1,8 @@
 import unittest
 from textnode import TextNode, TextType
-from makdown_parsers import split_nodes_delimiter, extract_markdown_images, extract_markdown_links, split_nodes_image, split_nodes_link, text_to_textnodes
+from markdown_parsers import split_nodes_delimiter, extract_markdown_images, extract_markdown_links, split_nodes_image, split_nodes_link, text_to_textnodes
 
-class TestLeafNode(unittest.TestCase):
+class TestParsers(unittest.TestCase):
     def test_split(self):
         node = TextNode("This is text with a `code block` word", TextType.TEXT)
         new_nodes = split_nodes_delimiter([node], "`", TextType.CODE)
@@ -122,6 +122,6 @@ class TestLeafNode(unittest.TestCase):
             TextNode(" and a ", TextType.TEXT),
             TextNode("link", TextType.LINK, "https://boot.dev"),
         ])
-                
+
 if __name__ == "__main__":
     unittest.main()
