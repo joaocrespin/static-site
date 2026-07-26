@@ -20,8 +20,8 @@ class TestLeafNode(unittest.TestCase):
         self.assertEqual(node.to_html(), '<a href="https://www.google.com">Click Here!</a>')
 
     def test_leaf_to_html_none(self):
-            node = LeafNode(None, "Hello, world!")
-            self.assertEqual(node.to_html(), "Hello, world!")
+        node = LeafNode(None, "Hello, world!")
+        self.assertEqual(node.to_html(), "Hello, world!")
 
 if __name__ == "__main__":
     unittest.main()
