@@ -1,46 +1,25 @@
-# Tolkien Fan Club
+# TWICE
 
-![JRR Tolkien sitting](/images/tolkien.png)
+[< Back Home](/)
 
-Here's the deal, **I like Tolkien**.
+**TWICE** (트와이스) is a nine-member girl group formed by JYP Entertainment through the 2015 survival reality show _SIXTEEN_. The lineup - **Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung,** and **Tzuyu** - draws members from South Korea, Japan, and Taiwan, giving the group one of K-pop's more international lineups from its very debut.
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
+## Quick facts
 
-## Blog posts
+- **Debut:** October 20, 2015 - mini album _The Story Begins_
+- **Agency:** JYP Entertainment
+- **Members:** 9 (Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, Tzuyu)
+- **Leader:** Jihyo
+- **Fandom name:** ONCE
+- **Origin:** South Korea
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+## About
 
-## Reasons I like Tolkien
+TWICE built their identity on an unusually clear pop formula: big, sing-along choruses, catchy hand-gesture choreography, colorful styling, and members with sharply distinct, easy-to-love personalities. Breakout hits like "Cheer Up," "TT," and "Feel Special" turned them into one of the defining girl groups of their generation, and the group has kept up a steady stream of comebacks, world tours, and solo projects ever since.
 
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
 
-## My favorite characters (in order)
+## Explore
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
-
-Here's what `elflang` looks like (the perfect coding language):
-
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
-
-Want to get in touch? [Contact me here](/contact).
-
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).
+- [Members](/members)
+- [Discography](/discography)
+- [Timeline](/history)
